@@ -1,0 +1,4 @@
+Hi!!
+My name is Dev Goel.
+I am learning Pattern Recognition and Machine learning.
+This file has been created for the Problem 1a of Lab-1 assignment.
